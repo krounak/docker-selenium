@@ -1,0 +1,8 @@
+com\seldocker\Pages\flightReservation\FlightConfirmation.class
+com\seldocker\Pages\flightReservation\FlightSelectionPage.class
+com\seldocker\Pages\flightReservation\FlightSearch.class
+com\seldocker\Pages\vendorPortals\DashBoardpage.class
+com\seldocker\Pages\flightReservation\AbstractPage.class
+com\seldocker\Pages\vendorPortals\LoginPage.class
+com\seldocker\Pages\flightReservation\ResistrationPage.class
+com\seldocker\Pages\flightReservation\RegisterationConfirmation.class

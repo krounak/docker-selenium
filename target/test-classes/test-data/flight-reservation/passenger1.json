@@ -1,0 +1,11 @@
+{
+  "firstName":"michael",
+  "lastName":"jackson",
+  "email":"m@pop.com",
+  "password":"mj",
+  "street":"123 main street",
+  "city":"atlana",
+  "zip":"30001",
+  "passerngerCount":"1",
+  "expectedPrice":"$584 USD"
+}
